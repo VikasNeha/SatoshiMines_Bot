@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6f9a3ab-3295-4aea-9ace-0c3617845646" name="Default" comment="" />
+    <ignored path="SatoshiMines_Bot.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/PageEvents/inputContent.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467146248" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/Resources/scrapedOrders.txt" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467467175" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/Resources/logger.log" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467211460" ignored="false" />
+    <file path="/inputContent.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387486785598" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/FiverrOrderScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467349235" ignored="false" />
+    <file path="/FiverrOrderScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467347912" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/PageEvents/fiverrEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387480644299" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/FiverrOrderScrapeUI.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387481494437" ignored="false" />
+    <file path="/FiverrOrderScrapeUI.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467481113" ignored="false" />
+    <file path="/fiverrEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387467408478" ignored="false" />
+    <file path="/SatoshiMines_BotUI.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387551893501" ignored="false" />
+    <file path="/config.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727657311" ignored="false" />
+    <file path="/SatoshiMines_Bot.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387552355107" ignored="false" />
+    <file path="/satoshiEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387552451266" ignored="false" />
+    <file path="/Python Console" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387482760629" ignored="false" />
+    <file path="$PROJECT_DIR$/../Fiverr_OrderScrape/com/testUI.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387485409363" ignored="false" />
+    <file path="/testUI.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387487010380" ignored="false" />
+    <file path="$PROJECT_DIR$/../Study/root/nested/phantomjs_study.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727186179" ignored="false" />
+    <file path="/phantomjs_study.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727184621" ignored="false" />
+    <file path="D:/Python27/Lib/site-packages/selenium/webdriver/phantomjs/service.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387531815446" ignored="false" />
+    <file path="/service.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387531801449" ignored="false" />
+    <file path="/webpageEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387872755399" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Output/Scrape_output.csv" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387535003686" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/AmazonScrap.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387726979539" ignored="false" />
+    <file path="/AmazonScrap.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727704880" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/amazonProduct.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387533994510" ignored="false" />
+    <file path="/amazonProduct.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387532902825" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Resources/AmazonProductURLs.txt" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387533275102" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Resources/logger.log" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387535003686" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/PageEvents/AmazonUSScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387533181600" ignored="false" />
+    <file path="/AmazonUSScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387533006121" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/Utilities/myLogger.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387534888067" ignored="false" />
+    <file path="/myLogger.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387548475940" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iian_Amazon_Ebay/com/config.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387534882976" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/PageEvents/webpageEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387552957016" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Nike_AutoAddToCart.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387553470746" ignored="false" />
+    <file path="/properties.ini" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387548207122" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Resources/properties.ini" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387549061295" ignored="false" />
+    <file path="/Nike_AutoAddToCart.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387548759075" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/Utilities/myLogger.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387548482476" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/comlogger.log" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387552962580" ignored="false" />
+    <file path="$PROJECT_DIR$/../Nike_AutoAddToCart/com/ghostdriver.log" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387552962580" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/AmazonUKScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727809042" ignored="false" />
+    <file path="/AmazonUKScrape.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727683783" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/webpageEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727355108" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/config.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727658605" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/AmazonScrap.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387744029674" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/Resources/AmazonProductURLs.txt" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727754117" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/__init__.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387727997624" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/Output/Scrape_output.csv" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387728015034" ignored="false" />
+    <file path="$PROJECT_DIR$/../Iain_amazon_Ebay_Selenium/com/PageEvents/amazonEvents.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387743950211" ignored="false" />
+    <file path="$PROJECT_DIR$/../Bedrijvengids_belgie_scraping/com/config.py" changelist="b6f9a3ab-3295-4aea-9ace-0c3617845646" time="1387884529708" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SatoshiMines_Bot" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="SatoshiMines_BotUI.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/SatoshiMines_BotUI.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="45" column="8" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpageEvents.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/com/PageEvents/webpageEvents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="2" selection-start="289" selection-end="289" vertical-scroll-proportion="0.028862478">
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SatoshiMines_Bot.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/SatoshiMines_Bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="10" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="satoshiEvents.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/com/PageEvents/satoshiEvents.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="8" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/com/Resources/stats" />
+        <option value="$PROJECT_DIR$/com/PageEvents/inputContent.py" />
+        <option value="$PROJECT_DIR$/com/testUI.py" />
+        <option value="$PROJECT_DIR$/com/Resources/logger.log" />
+        <option value="$PROJECT_DIR$/com/SatoshiMines_BotUI.py" />
+        <option value="$PROJECT_DIR$/com/config.py" />
+        <option value="$PROJECT_DIR$/com/SatoshiMines_Bot.py" />
+        <option value="$PROJECT_DIR$/com/PageEvents/satoshiEvents.py" />
+        <option value="$PROJECT_DIR$/com/PageEvents/webpageEvents.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="786" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Utilities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SatoshiMines_Bot" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PageEvents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <PyConsoleSettings />
+    </option>
+    <option name="myDjangoConsoleState">
+      <PyConsoleSettings />
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PyCharm\Workspace\SatoshiMines_Bot\com\Resources" />
+      <recent name="F:\PyCharm\Workspace\SatoshiMines_Bot\com" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PyCharm\Workspace\SatoshiMines_Bot\com" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.SatoshiMines_BotUI">
+    <configuration default="false" name="SatoshiMines_BotUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SatoshiMines_Bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/SatoshiMines_BotUI.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PyDebugRunner" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PyDebugRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SatoshiMines_Bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SatoshiMines_Bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="SatoshiMines_Bot" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.SatoshiMines_BotUI" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.SatoshiMines_BotUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6f9a3ab-3295-4aea-9ace-0c3617845646" name="Default" comment="" />
+      <created>1387466553220</created>
+      <updated>1387466553220</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="786" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26661265" sideWeight="0.36146498" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39968154" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.638535" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/com/SatoshiMines_Bot.py</url>
+          <line>12</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/Python27/Lib/urllib2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="480" column="0" selection-start="15934" selection-end="15934" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="409" column="0" selection-start="18072" selection-end="18072" vertical-scroll-proportion="0.33333334" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="161" column="0" selection-start="6510" selection-end="6510" vertical-scroll-proportion="0.3106509" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/httplib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="727" column="0" selection-start="24616" selection-end="24616" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/urlparse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="0" selection-start="4743" selection-end="4743" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/urllib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1054" column="0" selection-start="39401" selection-end="39401" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1119" column="0" selection-start="39643" selection-end="39643" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="0" selection-start="1373" selection-end="1373" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/site-packages/selenium/webdriver/remote/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="0" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://D:/Python27/Lib/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="230" column="0" selection-start="8581" selection-end="8581" vertical-scroll-proportion="0.3133903" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/Resources/logger.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="10" selection-start="101" selection-end="101" vertical-scroll-proportion="0.08471761" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/SatoshiMines_BotUI.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="8" selection-start="1364" selection-end="1364" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/SatoshiMines_Bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="10" selection-start="409" selection-end="409" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/PageEvents/webpageEvents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="2" selection-start="289" selection-end="289" vertical-scroll-proportion="0.028862478">
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/com/PageEvents/satoshiEvents.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="8" selection-start="905" selection-end="905" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
